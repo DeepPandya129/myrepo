@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dis.h": "c",
+        "led.h": "c"
+    }
+}
